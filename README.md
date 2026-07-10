@@ -50,3 +50,6 @@
 STATUS       :: Active for Junior Front-End Developer Roles / Paid Internships
 CAPABILITY   :: Can handle strict Figma design translation, layout refactoring, and state synchronization on Day 1.
 GEOGRAPHY    :: ISB, Pakistan / Remote Ecosytems
+
+🌐 Master Portfolio: portfolio-m-haseeb-farooqi.vercel.app
+✉️ Direct Email: mhaseebfarooqi2@gmail.com
