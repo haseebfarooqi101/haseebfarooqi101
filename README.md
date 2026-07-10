@@ -1,55 +1,47 @@
-# 👨‍💻 M Haseeb Farooqi
-### **Front-End Developer** 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Haseeb+Farooqi;Frontend+Developer;React+%7C+Next.js+%7C+TailwindCSS;Building+Modern+Web+Experiences" />
+</p>
 
-*I build fast, accessible, and beautifully crafted web experiences with a strict focus on modular design systems and production-grade state architecture.*
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB&text=Haseeb%20Farooqi&fontColor=ffffff&fontAlign=50&fontSize=42"/>
+</p>
 
----
+<p align="center">
 
-## 🛠️ Tech Stack & Architecture Matrix
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=haseebfarooqi101&show_icons=true&theme=transparent&hide_border=true"/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📦 Core Frontend Ecosystem</h4>
-      <ul>
-        <li><strong>Libraries:</strong> React, Next.js, TypeScript, HTML5 / CSS3</li>
-        <li><strong>Styling:</strong> Tailwind CSS, Thoughtful UI Layouts</li>
-        <li><strong>Motion:</strong> Framer Motion Micro-interactions</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ State & Infrastructure</h4>
-      <ul>
-        <li><strong>State Management:</strong> Redux Toolkit, Context API</li>
-        <li><strong>Runtime & Backend:</strong> Node.js, Express, REST APIs</li>
-        <li><strong>Tooling:</strong> Git/GitHub, Vite, Webpack, Figma</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebfarooqi101&layout=compact&theme=transparent&hide_border=true"/>
 
----
+</p>
 
-## 🚀 Featured Engineering Production
+<p align="center">
 
-### 🎬 [Netflix Clone](https://github.com/haseebfarooqi101/Netflix-Clone)
-> **Next.js • TypeScript • Express • TMDB API • Tailwind CSS**
-*   **The Problem:** Standard cloud pipelines cannot handle high-bitrate media libraries without massive latency or infrastructure bills.
-*   **The Execution:** Engineered a local backend media-streaming architecture in Express that syncs flawlessly with real-time TMDB API metadata strings and handles responsive profile switching matrices.
+<img src="https://streak-stats.demolab.com?user=haseebfarooqi101&theme=transparent&hide_border=true"/>
 
-### 🎓 [Academic Portal](https://academic-1.netlify.app)
-> **Next.js • JavaScript • CSS Modules • Responsive Design**
-*   **The Problem:** Managing complex, distinct user context states across varying authority matrices (Teachers vs. Students).
-*   **The Execution:** Built a modular frontend application featuring strict component routing, intuitive workflows, and zero-compromise responsive mobile viewports.
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/haseebfarooqi101/haseebfarooqi101/output/github-contribution-grid-snake.svg">
+</p>
 
----
+<p align="center">
 
-## ⚡ Active Metrics & Target Execution
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,firebase,git,github,vscode"/>
 
-```text
-STATUS       :: Active for Junior Front-End Developer Roles / Paid Internships
-CAPABILITY   :: Can handle strict Figma design translation, layout refactoring, and state synchronization on Day 1.
-GEOGRAPHY    :: ISB, Pakistan / Remote Ecosytems
+</p>
+<p align="center">
 
-🌐 Master Portfolio: portfolio-m-haseeb-farooqi.vercel.app
-✉️ Direct Email: mhaseebfarooqi2@gmail.com
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel"/>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</p>
+
+## About
+
+- 🎓 Computer Science Graduate
+- ⚛ React & Next.js Developer
+- 🎨 Passionate about modern UI/UX
+- 🚀 Currently building production-ready web applications
+- 🌱 Learning advanced frontend architecture
